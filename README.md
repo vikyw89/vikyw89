@@ -8,7 +8,7 @@ I like exploring technologies, solving problems, creating things
 
 * 🖥️  See my portfolio at [personal-portfolio-eight-rose.vercel.app](http://personal-portfolio-eight-rose.vercel.app/)
 * ✉️  You can contact me at [vikyw89@gmail.com](mailto:vikyw89@gmail.com)
-* 🧠  I'm learning this queue DSA, docker, OSSU
+* 🧠  I'm learning DSA, docker, OSSU
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
