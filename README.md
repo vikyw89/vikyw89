@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Viky
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Viky
 ============================================================================================================================
 
 Full-stack Developer
@@ -7,8 +8,9 @@ Full-stack Developer
 I like exploring technologies, solving problems, creating things
 
 * 🖥️  See my portfolio at [personal-portfolio-eight-rose.vercel.app](http://personal-portfolio-eight-rose.vercel.app/)
+* 🖥️  Check my digital garden at [https://digital-garden-vikyw89.vercel.app](https://digital-garden-vikyw89.vercel.app)
 * ✉️  You can contact me at [vikyw89@gmail.com](mailto:vikyw89@gmail.com)
-* 🧠  I'm learning OSSU
+* 🧠  I'm learning on OSSU, CS50 and CS50AI
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
