@@ -14,13 +14,7 @@
 
 ## About Me
 
-I'm a Full-stack Developer who loves exploring technologies and solving problems. Through my journey, I've come to appreciate these principles:
-
-- **Type Safety**: Preventing bugs through strong typing across languages
-- **Simplicity**: Clean, flat structures that are easy to understand
-- **Explicitness**: Clear, intentional code over implicit magic
-- **Modularity**: Independent, composable pieces that work together
-- **Extensibility**: Flexible patterns that grow with your needs
+I'm a Full-stack Developer who loves exploring technologies and solving problems.
 
 ![Wrapped 2024](wrapped2024.png)
 
