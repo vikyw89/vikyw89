@@ -27,6 +27,7 @@ I'm a Full-stack Developer who loves exploring technologies and solving problems
 ### Languages
 
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![C#](https://skillicons.dev/icons?i=cs)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
 [![Go](https://skillicons.dev/icons?i=go)](https://golang.org/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -41,8 +42,12 @@ I'm a Full-stack Developer who loves exploring technologies and solving problems
 ### Backend
 
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![Elysia](https://skillicons.dev/icons?i=elysia)](https://elysiajs.com/)
+[![tRPC](https://skillicons.dev/icons?i=trpc)](https://trpc.io/)
+[![oRPC](https://skillicons.dev/icons?i=orpc)](https://orpc.io/)
 
 ### Tools & Build Systems
 

@@ -1,0 +1,1345 @@
+Skip to content
+[Powered by
+                Search
+
+
+
+                Algolia](https://www.algolia.com/developers/?utm_source=devto&utm_medium=referral)
+[Log in](https://dev.to/enter)
+[Create account](https://dev.to/enter?state=new-user)
+
+## DEV Community
+
+[Share to X](https://twitter.com/intent/tweet?text=%2210%20Standout%20GitHub%20Profile%20READMEs%22%20by%20%40leereilly%20%23DEVCommunity%20https%3A%2F%2Fdev.to%2Fgithub%2F10-standout-github-profile-readmes-h2o)
+[Share to LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdev.to%2Fgithub%2F10-standout-github-profile-readmes-h2o&title=10%20Standout%20GitHub%20Profile%20READMEs&summary=My%20good%20friend%20and%20colleague%20%40bdougieyo%20is%20at%20Codeland%20today%20and%20is%20giving%20away%20early%20access%20to%20Codes...&source=DEV%20Community)
+[Share to Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdev.to%2Fgithub%2F10-standout-github-profile-readmes-h2o)
+[Share to Mastodon](https://toot.kytta.dev/?text=https%3A%2F%2Fdev.to%2Fgithub%2F10-standout-github-profile-readmes-h2o)
+Share Post via...
+[Report Abuse](https://dev.to/report-abuse)
+[Lee Reilly](https://dev.to/leereilly)
+[GitHub](https://dev.to/github)
+Posted on Jul 23, 2020
+
+# 10 Standout GitHub Profile READMEs
+
+[#codeland](https://dev.to/t/codeland)
+[#github](https://dev.to/t/github)
+[#actions](https://dev.to/t/actions)
+[#readme](https://dev.to/t/readme)
+My good friend and colleague @bdougieyo is at Codeland today and is giving away early access to [Codespaces](https://github.com/features/codespaces/) to three lucky people who create a profile README (a new feature we quietly launched a few weeks ago).
+If you're looking for some inspiration, or information on how to actually enable this on your profile, here are a few READMEs that have jumped out at me over the last few weeks. Everything from purely cosmetic and informational, to truly hacktacular, computationally expensive impressive, and entertaining works of art 👌🏻
+
+## 1 Hello, world!
+Set yourself apart from everyone else with a brief biography, colorful header image, and links to find you elsewhere on the web - just like [@M0nica](https://github.com/M0nica):
+Fun fact: @M0nica just published a [blog post about how to create a GitHub profile README](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme). That's a great starting point if you're thinking about adding one yourself.
+
+## 2 Show off your stats  💪🏻
+I may have talked about this before elsewhere, but if you're using GitHub as a resume / portfolio, this nifty little tool from @anuraghazra can show off your stats in a nice way. Enabling it on your repository is pretty easy with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+
+## 3 Don’t forget to sign the guestbook on your way out
+My good friend [@JasonEtco](https://github.com/jasonetco) is always pushing GitHub, Actions. and just about everything else web-related to it's limits. He built a guestbook on his profile using GitHub Actions. I'm just waiting on the support for hit counters, webrings, dancing babies, etc. and we'll have come full circle!
+Please help me: Consider dropping by Jason's profile page, and sharing a fun joke, or perhaps a completely random fun fact on his guestbook. He doesn't know about this post, so he'll hopefully have no idea where the comments are all coming from* 😂
+* Note to self: remember to remove Jason's access to the server logs tomorrow...
+
+## 4 Hit counter 1️⃣ 3️⃣ 3️⃣ 7️⃣
+Speaking of numbers, display your profile’s visitor count with this nifty little SVG solution. If you're as old experienced as me, you'll remember when every web page used to have one of these. Thanks [@sagar-viradiya](https://github.com/sagar-viradiya)!
+
+## 5 Shall we play a game?
+It was only a matter of time until someone added a game to their profile README. This community-powered Connect4 game does exactly what you imagine. Very impressive, [@jonathangin52](https://github.com/jonathangin52) 💙 ❤️
+
+## 6 Wouldn’t you prefer a good game of chess? ♞ ♖
+I could really get on BOARD with more games on profiles. I'd definitely CHECK them all out...
+You guessed it! You can also play chess thanks to this little gem from [@timburgan](https://github.com/timburgan). Simply click a link to create an issue with your move command, and a GitHub Actions Workflow will take it from there.
+
+## 7 Speaking of games…
+[@ethomson](https://github.com/ethomson)'s contribution to the world of profile READMEs is a Game of Life simulation with a familiar look and feel 💚
+Behind the scenes it uses libraries called contributions (creating a data structure with a GitHub contribution graph) and dat-life (supporting a Conway's Game of Life implementation). Read more about it [here](https://github.com/ethomson).
+
+## 8 Now playing in a README near you ♩ ♪ ♫ ♬
+An SVG dynamically rendered with a Vercel serverless function, and integrated with the Spotify API? BOOM! You have yourself an image displaying what you're listening to. Bravo, [@natemoo-re](https://github.com/natemoo-re). Bravo 👏
+I can't wait to get this spun up on my profile! 🤘
+
+## 9 Self-updating README
+@simonw's profile literally updates itself–with latest releases, blog posts, and things learned–using GitHub Actions. Simon goes into it in more detail in [this blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) if you're curious how it works under the hood.
+
+## 10 Jump to it!
+Last, but not least. It might just be a GIF, but by golly, I've been watching it for hours. This familiar-looking animation captured by [@saadeghi](https://github.com/saadeghi) shows that even the addition of a simple image can add a bit of character to your profile, and make it really jump out.
+Hopefully these examples have given you some fresh ideas to add your own profile README. Enabling it is easy. Simply follow these [instructions](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme). I'd love to see yours - be sure to leave a link in the comments below :)
+
+## Top comments (57)
+
+[Create template](https://dev.to/settings/response-templates)
+Templates let you quickly answer FAQs or store snippets for re-use.
+[Dismiss](https://dev.to/404.html)
+[David Dal Busco](https://dev.to/daviddalbusco)
+[David Dal Busco](https://dev.to/daviddalbusco)
+- 
+
+            Location
+
+
+            Zürich
+
+
+- 
+
+          Joined
+
+
+          Jan 24, 2019
+
+
+[Jul 23 '20
+
+
+    • Edited on Jul 23
+    • Edited](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+The chess README is pretty slick!
+I really enjoy the one of [@brunnerlivio](https://dev.to/brunnerlivio) too, there's something "old'school cool" there.
+👉 [GitHub](https://github.com/BrunnerLivio)
+Comment button
+
+        Reply
+[Brian Douglas](https://dev.to/bdougieyo)
+[Brian Douglas](https://dev.to/bdougieyo)
+- 
+
+            Location
+
+
+            Oakland, CA
+
+
+- 
+
+              Pronouns
+
+
+              he/him
+
+
+- 
+
+              Work
+
+
+              Founder OpenSauced
+
+
+- 
+
+          Joined
+
+
+          May 27, 2017
+
+
+[Jul 23 '20
+
+
+    • Edited on Jul 23
+    • Edited](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+I am a fan of the old school and always a fan of the underrated marquee
+Comment button
+
+        Reply
+[Lee Reilly](https://dev.to/leereilly)
+[Lee Reilly](https://dev.to/leereilly)
+- 
+
+            Location
+
+
+            Walnut Creek, CA
+
+
+- 
+
+          Joined
+
+
+          Nov 15, 2017
+
+
+[Jul 26 '20](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+No kidding! The 80s 90s called...
+Source: [github.com/bdougie](https://github.com/bdougie)
+[Mikiko Bazeley](https://dev.to/mmbazel)
+[Mikiko Bazeley](https://dev.to/mmbazel)
+- 
+
+            Location
+
+
+            San Francisco
+
+
+- 
+
+              Education
+
+
+              University of California, San Diego - Economics, 2013
+
+
+- 
+
+              Work
+
+
+              Senior Software Engineer, ML Platform & Infrastructure at Mailchimp
+
+
+- 
+
+          Joined
+
+
+          Apr 30, 2019
+
+
+[Dec 17 '20](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+Omg I love it!
+Comment button
+
+        Reply
+[Livio Brunner](https://dev.to/brunnerlivio)
+[Livio Brunner](https://dev.to/brunnerlivio)
+- 
+
+            Location
+
+
+            Switzerland
+
+
+- 
+
+              Work
+
+
+              Senior Frontend Engineer at RaiseNow
+
+
+- 
+
+          Joined
+
+
+          Jul 16, 2019
+
+
+[Jul 24 '20](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+Aww thank you!
+At this point I want to mention, its inspired by fnkys awesome README. As well as sindresorhus [tweet](https://twitter.com/sindresorhus/status/1285609420098088961) which helped me to build the marquee :-)
+Comment button
+
+        Reply
+[Jimmy Cook](https://dev.to/wjimmycook)
+[Jimmy Cook](https://dev.to/wjimmycook)
+- 
+
+          Joined
+
+
+          Jul 26, 2020
+
+
+[Jul 26 '20
+
+
+    • Edited on Jul 26
+    • Edited](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+https://media2.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Facmabizvxcllsmvj1lop.gifHere is my new github profile README
+Comment button
+
+        Reply
+[Lee Reilly](https://dev.to/leereilly)
+[Lee Reilly](https://dev.to/leereilly)
+- 
+
+            Location
+
+
+            Walnut Creek, CA
+
+
+- 
+
+          Joined
+
+
+          Nov 15, 2017
+
+## Top comments (57)
+
+[Jul 26 '20](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+💚💚💚💚💚
+Comment button
+
+        Reply
+[Jimmy Cook](https://dev.to/wjimmycook)
+[Jimmy Cook](https://dev.to/wjimmycook)
+- 
+
+          Joined
+
+
+          Jul 26, 2020
+
+
+[Jul 26 '20](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+Lol amazing!
+[Lee Reilly](https://dev.to/leereilly)
+[Lee Reilly](https://dev.to/leereilly)
+- 
+
+            Location
+
+
+            Walnut Creek, CA
+
+
+- 
+
+          Joined
+
+
+          Nov 15, 2017
+
+
+[Jul 27 '20](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+The folks contributing to this Tweet show real... commitment...
+[@leereilly](https://dev.to/leereilly)
+[@github](https://twitter.com/github)
+[dev.to/github/10-stan…](https://t.co/6aCrx0us5b)
+[Jimmy Cook](https://dev.to/wjimmycook)
+[Jimmy Cook](https://dev.to/wjimmycook)
+- 
+
+          Joined
+
+
+          Jul 26, 2020
+
+
+[Jul 27 '20](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+Just happy to push my changes
+[Lee Reilly](https://dev.to/leereilly)
+[Lee Reilly](https://dev.to/leereilly)
+- 
+
+            Location
+
+
+            Walnut Creek, CA
+
+
+- 
+
+          Joined
+
+
+          Nov 15, 2017
+
+
+[Jul 27 '20](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+Gonna stash these jokes for later. Might be able to cherry-pick a few for an upcoming Dev post...
+Comment button
+
+        Reply
+[David Obodo](https://dev.to/phitgeek)
+[David Obodo](https://dev.to/phitgeek)
+- 
+
+          Joined
+
+
+          Nov 8, 2022
+
+
+[Nov 8 '22](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+super nice
+Comment button
+
+        Reply
+[Avinal Kumar](https://dev.to/avinal_)
+[Avinal Kumar](https://dev.to/avinal_)
+- 
+
+          Joined
+
+
+          Jul 26, 2020
+
+
+[Jul 26 '20
+
+
+    • Edited on Jul 26
+    • Edited](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+https://res.cloudinary.com/practicaldev/image/fetch/s--RHybqRoz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/b0vfgs68aycvexx38oi0.pngCheck this out. Coding Activity Graph on your Profile README. Uses WakaTime API to automatically update your stats every night.
+github.com/avinal/Profile-Readme-W...
+Comment button
+
+        Reply
+[Ryan Lanciaux](https://dev.to/ryanlanciaux)
+[Ryan Lanciaux](https://dev.to/ryanlanciaux)
+- 
+
+            Location
+
+
+            Somewhere.
+
+
+- 
+
+          Joined
+
+
+          Sep 23, 2017
+
+
+[Jul 23 '20
+
+
+    • Edited on Jul 23
+    • Edited](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+Thank you for this excellent article - love this feature of GitHub, and seeing all the creative things people are doing. Especially pumped to see the visitor counter making a come back :D
+If anyone wants to add the retro counter to their profile (like [@sagar-viradiya](https://github.com/sagar-viradiya)'s profile) you can add it like this.
+
+## Top comments (57)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
+```
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+```
+
+[Slightly more expanded version of these instructions are available here :D](https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g)
+For anyone that's interested in making their own visitor counter, [check out this guide I wrote on creating (or forking the GlitchApp) to make your own visitor counter](https://dev.to/ryanlanciaux/quick-github-profile-visit-counter-14en). 🚀 The main gist of this one is you run a node+Express app (although it could be a serverless function, other language/framework, etc) that responds to an svg request with the next count. The headers should alert GitHub's caching layer to re-request the image every time.
+Comment button
+
+        Reply
+[Sagar Viradiya](https://dev.to/sagarviradiya)
+[Sagar Viradiya](https://dev.to/sagarviradiya)
+- 
+
+            Email
+
+
+            [sagarviradiya4444@gmail.com](mailto:sagarviradiya4444@gmail.com)
+
+
+- 
+
+            Location
+
+
+            Mumbai, India
+
+
+- 
+
+          Joined
+
+
+          Jul 28, 2019
+
+
+[sagarviradiya4444@gmail.com](mailto:sagarviradiya4444@gmail.com)
+[Jul 26 '20](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+Thanks for creating this!
+Comment button
+
+        Reply
+[Kushagra Bansal](https://dev.to/kush1101)
+[Kushagra Bansal](https://dev.to/kush1101)
+- 
+
+            Location
+
+
+            India
+
+
+- 
+
+              Education
+
+
+              NIT Patna
+
+
+- 
+
+          Joined
+
+
+          Jul 13, 2020
+
+
+[Aug 8 '20](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+Thanks for the information! Was looking for this. 😊
+Comment button
+
+        Reply
+[Arturs Smirnovs](https://dev.to/arturssmirnovs)
+[Arturs Smirnovs](https://dev.to/arturssmirnovs)
+- 
+
+            Location
+
+
+            Latvia
+
+
+- 
+
+          Joined
+
+
+          Jul 15, 2020
+
+
+[Jul 28 '20](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+Here is a tool that could help you to get started with github readme :)
+Add description / social media / badges and other stuff with just few clicks..
+
+## arturssmirnovs
+/ [github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+[arturssmirnovs](https://github.com/arturssmirnovs)
+[github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+
+### Hi there 👋.
+⭐⭐⭐ [Check out this tool here.](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+This project allows you to easily create attractive and simple GitHub Readme files that you can copy/paste in your profile. It's currently available in English and Spanish.
+You can include things like headers, subtitles, skills, a banner image, additional information, social media links, badges and GitHub statistics.
+
+### Instructions
+- Go to: [arturssmirnovs.github.io/github-pr...](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+
+- Fill any inputs you like
+- Copy the code generated in the Code section
+- Create a new repository in your GitHub account with the same name as your GitHub username
+- Add a readme.md file to your new repository
+- Paste the copied code into the readme file and save
+- Enjoy!
+[arturssmirnovs.github.io/github-pr...](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+
+### Top Contributors
+@arturssmirnovs
+@max-programming
+@fx2000
+[@DenverCoder1](https://github.com/DenverCoder1)
+
+#### Resources Used
+[github.com/anuraghazra/github-read...](https://github.com/anuraghazra/github-readme-stats)
+[github.com/arturssmirnovs/github-p...](https://github.com/arturssmirnovs/github-profile-views-counter)
+[github.com/ryo-ma/github-profile-t...](https://github.com/ryo-ma/github-profile-trophy)
+[github.com/DenverCoder1/github-rea...](https://github.com/DenverCoder1/github-readme-streak-stats)
+[github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+[github.com/andreasremdt/simple-tra...](https://github.com/andreasremdt/simple-translator)
+[View on GitHub](https://github.com/arturssmirnovs/github-profile-readme-generator)
+Comment button
+
+        Reply
+[James George](https://dev.to/jamesgeorge007)
+[James George](https://dev.to/jamesgeorge007)
+- 
+
+            Email
+
+
+            [jamesgeorge998001@gmail.com](mailto:jamesgeorge998001@gmail.com)
+
+
+- 
+
+            Location
+
+
+            Kerala
+
+
+- 
+
+              Education
+
+
+              B-Tech CSE (2017-2021), AJCE
+
+
+- 
+
+              Work
+
+
+              Full Stack Engineer at Mad.Hacks
+
+
+- 
+
+          Joined
+
+
+          Sep 12, 2019
+
+
+[jamesgeorge998001@gmail.com](mailto:jamesgeorge998001@gmail.com)
+[Jul 24 '20](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+Here's a GitHub Action that updates README with the recent activity of a user:-
+
+```
+README
+```
+
+## jamesgeorge007
+
+/ [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+[jamesgeorge007](https://github.com/jamesgeorge007)
+[github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+
+# GitHub Activity in Readme
+
+Updates README.md with the recent GitHub activity of a user.
+
+```
+README.md
+```
+
+## Instructions
+
+- 
+Add the comment <!--START_SECTION:activity--> (entry point) within README.md. You can find an example [here](https://github.com/jamesgeorge007/jamesgeorge007/blob/master/README.md).
+
+- 
+It's the time to create a workflow file.
+
+Add the comment <!--START_SECTION:activity--> (entry point) within README.md. You can find an example [here](https://github.com/jamesgeorge007/jamesgeorge007/blob/master/README.md).
+
+```
+<!--START_SECTION:activity-->
+```
+
+
+```
+README.md
+```
+
+It's the time to create a workflow file.
+.github/workflows/update-readme.yml
+
+```
+.github/workflows/update-readme.yml
+```
+
+
+```
+name: Update README
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+The above job runs every half an hour, you can change it as you wish based on the [cron syntax](https://jasonet.co/posts/scheduled-actions/).
+Please note that only those public events that belong to the following list show up:-
+- IssueEvent
+- IssueCommentEvent
+- PullRequestEvent
+
+```
+IssueEvent
+```
+
+
+```
+IssueCommentEvent
+```
+
+
+```
+PullRequestEvent
+```
+
+You can find an example [here](https://github.com/jamesgeorge007/jamesgeorge007/blob/master/.github/workflows/update-readme.yml).
+
+### Override defaults
+
+Use the following input params to customize it for…
+
+```
+input params
+```
+
+[View on GitHub](https://github.com/jamesgeorge007/github-activity-readme)
+Comment button
+
+        Reply
+[Puneet Gopinath](https://dev.to/puneetgopinath)
+[Puneet Gopinath](https://dev.to/puneetgopinath)
+- 
+
+          Joined
+
+
+          Mar 4, 2021
+
+
+[May 21 '21](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+Hey James George, you no longer maintain it. So here is a fork of it to use instead:
+
+## Readme-Workflows
+
+/ [recent-activity](https://github.com/Readme-Workflows/recent-activity)
+[Readme-Workflows](https://github.com/Readme-Workflows)
+[recent-activity](https://github.com/Readme-Workflows/recent-activity)
+
+# Recent Activity
+
+This GitHub Action is a Fork of the original GitHub Activity Readme Action by [jamesgeorge007](https://github.com/jamesgeorge007).
+Its our goal is to improve the original GitHub Action while also providing new features for the users.
+
+## Live Preview
+
+This is an example live preview that is updated every time a commit is pushed using github actions.
+Last Updated: Thursday, May 20th, 2021, 3:17:39 PM (GMT)
+1. 
+❗️ Closed issue #5 in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity/issues/5)
+
+2. 
+🎉 Merged PR #6 in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity/pull/6)
+
+3. 
+🗣 Commented on #3 in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity/discussions/3)
+
+4. 
+❗️ Closed issue #4 in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity/issues/4)
+
+5. 
+💪 Opened PR #6 in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity/pull/6)
+
+[#5](https://github.com/Readme-Workflows/recent-activity/issues/5)
+[Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity/issues/5)
+[#6](https://github.com/Readme-Workflows/recent-activity/pull/6)
+[Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity/pull/6)
+[#3](https://github.com/Readme-Workflows/recent-activity/discussions/3)
+[Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity/discussions/3)
+[#4](https://github.com/Readme-Workflows/recent-activity/issues/4)
+[Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity/issues/4)
+[#6](https://github.com/Readme-Workflows/recent-activity/pull/6)
+[Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity/pull/6)
+
+## Settings
+
+The Action currently has the following Settings that you can set through the with option.
+
+```
+with
+```
+
+
+```
+GH_USERNAME
+```
+
+
+```
+COMMIT_MSG
+```
+
+
+```
+⚡ Update README with the recent activity
+```
+
+
+```
+MAX_LINES
+```
+
+
+```
+5
+```
+
+[View on GitHub](https://github.com/Readme-Workflows/recent-activity)
+Comment button
+
+        Reply
+[Lee Reilly](https://dev.to/leereilly)
+[Lee Reilly](https://dev.to/leereilly)
+- 
+
+            Location
+
+
+            Walnut Creek, CA
+
+
+- 
+
+          Joined
+
+
+          Nov 15, 2017
+
+
+[Jul 26 '20
+
+
+    • Edited on Jul 26
+    • Edited](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+Graphics are a bit blocky, but here's [mine](https://github.com/leereilly)...
+Comment button
+
+        Reply
+[Ahmad Sawalqeh](https://dev.to/ahmadsawalqeh)
+[Ahmad Sawalqeh](https://dev.to/ahmadsawalqeh)
+- 
+
+          Joined
+
+
+          Aug 25, 2020
+
+
+[Aug 25 '20](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+I used a combination of several tools to make this piece of art you can check it out here! [GitHub Account](https://github.com/Ahmad-Sawalqeh)
+Comment button
+
+        Reply
+[Ronaldo Hoch](https://dev.to/ronaldohoch)
+[Ronaldo Hoch](https://dev.to/ronaldohoch)
+- 
+
+            Location
+
+
+            Brazil
+
+
+- 
+
+          Joined
+
+
+          Jan 16, 2020
+
+
+[Aug 26 '20](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+Nice!
+How do you made this Contribution Stats?
+Comment button
+
+        Reply
+[Sarvesh Mankar](https://dev.to/sarveshmankar)
+[Sarvesh Mankar](https://dev.to/sarveshmankar)
+- 
+
+            Location
+
+
+            Pune
+
+
+- 
+
+          Joined
+
+
+          Oct 16, 2021
+
+
+[Jul 12 '23
+
+
+    • Edited on Jul 12
+    • Edited](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+Guys checkout my GitHub Profile :D
+[github.com/SarveshMankar](https://github.com/SarveshMankar)
+Feature to watch out:
+1. SVG for Username
+2. GitHub Stats
+3. Dynamic Updates of Quotes!
+Also do checkout my GFG article on GitHub Actions and GitHub Secrets!
+[Dynamic GitHub Readme](https://www.geeksforgeeks.org/dynamic-quote-generator-for-github-readme/)
+Do let me know your reviews!
+Comment button
+
+        Reply
+[Harshal Jadhav](https://dev.to/harshalrj25)
+[Harshal Jadhav](https://dev.to/harshalrj25)
+- 
+
+            Email
+
+
+            [harshalrj25@gmail.com](mailto:harshalrj25@gmail.com)
+
+
+- 
+
+            Location
+
+
+            India
+
+
+- 
+
+              Education
+
+
+              Masters In Computer Applications
+
+
+- 
+
+              Work
+
+
+              Senior consultant
+
+
+- 
+
+          Joined
+
+
+          Aug 4, 2020
+
+
+[harshalrj25@gmail.com](mailto:harshalrj25@gmail.com)
+[Aug 6 '20](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- 
+- 
+
+                Hide
+
+
+- 
+- 
+- 
+[Copy link](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+https://res.cloudinary.com/practicaldev/image/fetch/s--cJ1_Yze3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/t28kou9amno17y0xzd7w.gifHere's mine which shows your latest medium blogs.
+checkout my repo [github.com/harshalrj25/mediumblog-...](https://github.com/harshalrj25/mediumblog-cards) to add medium blogs to your profile.
+Comment button
+
+        Reply
+[View full discussion (57 comments)](https://dev.to/github/10-standout-github-profile-readmes-h2o/comments)
+[Code of Conduct](https://dev.to/code-of-conduct)
+[Report abuse](https://dev.to/report-abuse)
+Are you sure you want to hide this comment? It will become hidden in your post, but will still be visible via the comment's permalink.
+Hide child comments as well
+Confirm
+
+## Settings
+For further actions, you may consider blocking this person and/or [reporting abuse](https://dev.to/report-abuse)
+
+## Read next
+[Full Salesforce Oracle Integration Guide
+
+              Dorian Sabitov - Jan 21](https://dev.to/doriansabitov/full-salesforce-oracle-integration-guide-1e5f)
+
+### Full Salesforce Oracle Integration Guide
+Dorian Sabitov - Jan 21
+[📰 Planet WGS-804HPT Industrial Switch flaws could be chained to achieve remote code execution
+
+              Pawani Madushika - Jan 21](https://dev.to/d_thiranjaya_6d3ec4552111/planet-wgs-804hpt-industrial-switch-flaws-could-be-chained-to-achieve-remote-code-execution-1f7m)
+
+### 📰 Planet WGS-804HPT Industrial Switch flaws could be chained to achieve remote code execution
+Pawani Madushika - Jan 21
+[Why Choosing the Right MVP Software Development Company is Crucial for Startup Success in 2025
+
+              JetThoughts Dev - Jan 21](https://dev.to/jetthoughts/why-choosing-the-right-mvp-software-development-company-is-crucial-for-startup-success-in-2025-52k0)
+
+### Why Choosing the Right MVP Software Development Company is Crucial for Startup Success in 2025
+JetThoughts Dev - Jan 21
+["Revolutionizing Education: How AI-Powered Agents Enhance Learning Efficiency"
+
+              Gilles Hamelink - Jan 21](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-education-how-ai-powered-agents-enhance-learning-efficiency-1nme)
+
+### "Revolutionizing Education: How AI-Powered Agents Enhance Learning Efficiency"
+Gilles Hamelink - Jan 21
+[GitHub](https://dev.to/github)
+GitHub Copilot is the world’s most widely adopted AI developer tool. Don't fly solo. Try 30 days for free.
+[Try GitHub Copilot](https://gh.io/dev-trial)
+
+### More from [GitHub](https://dev.to/github)
+[GitHub](https://dev.to/github)
+[Showcase your open source project at SCALE 🐧 Pasadena, CA · March 6-9, 2025
+
+                  #github
+                  #linux
+                  #opensource](https://dev.to/github/showcase-your-open-source-project-at-scale-pasadena-ca-march-6-9-2025-12kn)
+[Release Radar · September 2024: Major updates from the open source community
+
+                  #github
+                  #community
+                  #opensource
+                  #hacktoberfest](https://dev.to/github/release-radar-september-2024-major-updates-from-the-open-source-community-30ki)
+[A checklist and guide to get your repository collaboration-ready
+
+                  #github
+                  #collaboration
+                  #repository
+                  #maintainers](https://dev.to/github/a-checklist-and-guide-to-get-your-repository-collaboration-ready-3eld)
+[DEV Community](https://dev.to/) — A constructive and inclusive social network for software developers. With you every step of your journey.
+- 
+    [Home](https://dev.to/)
+
+
+- 
+    [DEV++](https://dev.to/++)
+
+
+- 
+    [Podcasts](https://dev.to/pod)
+
+
+- 
+    [Videos](https://dev.to/videos)
+
+
+- 
+    [Tags](https://dev.to/tags)
+
+
+- 
+    [DEV Help](https://dev.to/help)
+
+
+- 
+    [Forem Shop](https://shop.forem.com/)
+
+
+- 
+    [Advertise on DEV](https://dev.to/advertise)
+
+
+- 
+    [DEV Challenges](https://dev.to/challenges)
+
+
+- 
+    [DEV Showcase](https://dev.to/showcase)
+
+
+- 
+    [About](https://dev.to/about)
+
+
+- 
+    [Contact](https://dev.to/contact)
+
+
+- 
+    [Free Postgres Database](https://dev.to/free-postgres-database-tier)
+
+
+- 
+    [Software comparisons](https://dev.to/software-comparisons)
+
+
+[Home](https://dev.to/)
+[DEV++](https://dev.to/++)
+[Podcasts](https://dev.to/pod)
+[Videos](https://dev.to/videos)
+[Tags](https://dev.to/tags)
+[DEV Help](https://dev.to/help)
+[Forem Shop](https://shop.forem.com/)
+[Advertise on DEV](https://dev.to/advertise)
+[DEV Challenges](https://dev.to/challenges)
+[DEV Showcase](https://dev.to/showcase)
+[About](https://dev.to/about)
+[Contact](https://dev.to/contact)
+[Free Postgres Database](https://dev.to/free-postgres-database-tier)
+[Software comparisons](https://dev.to/software-comparisons)
+- 
+    [Code of Conduct](https://dev.to/code-of-conduct)
+
+
+- 
+    [Privacy Policy](https://dev.to/privacy)
+
+
+- 
+    [Terms of use](https://dev.to/terms)
+
+
+[Code of Conduct](https://dev.to/code-of-conduct)
+[Privacy Policy](https://dev.to/privacy)
+[Terms of use](https://dev.to/terms)
+Built on Forem — the open source software that powers [DEV](https://dev.to) and other inclusive communities.
+Made with love and [Ruby on Rails](https://dev.to/t/rails). DEV Community © 2016 - 2025.
+We're a place where coders share, stay up-to-date and grow their careers.
+[Log in](https://dev.to/enter)
+[Create account](https://dev.to/enter?state=new-user)
