@@ -6,7 +6,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vikyw89&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
-[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=vikyw89&theme=onedark)](https://github.com/vikyw89)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikyw89&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact)](https://github.com/vikyw89)
 
 </div>
 
