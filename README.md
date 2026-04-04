@@ -6,8 +6,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vikyw89&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
-[![Metrics](https://metrics.lecohan.io/api/v1/github/?username=vikyw89&config=github&theme=onedark)](https://github.com/vikyw89)
-
 </div>
 
 ## About Me
