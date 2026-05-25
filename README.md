@@ -1,12 +1,12 @@
 # Viky's Development Portfolio
 
-<div align="center">
+<!-- <div align="center">
 
 ![Header](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vikyw89&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
-</div>
+</div> -->
 
 ## About Me
 
